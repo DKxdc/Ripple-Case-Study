@@ -2,9 +2,17 @@
 
 Note: all $ values are in US dollars.
 
+
 ## Overview and Origin
 
 Ripple Labs is a payment and remittances technology company founded in 2012, first under the name of Opencoin, but later renamed to Ripple Labs in 2015. Founded by Chris Larsen and Jed McCaleb in light of bitcoins’ intensive energy consumption, they decided to create a more energy efficient blockchain to transfer value. As per Crunchbase, Ripple was firstly funded through multiple seed rounds between 2012-13 which totaled $6.6m. They have then gone on to raise a further $287m over 9 more rounds between 2015-21. Another method of funding the team used and still being used, is selling their native token on the blockchain they created, called XRP. Ripple created the XRP token for one of their cross-border payment products. Ripple Labs decided to keep 55% of the supply (55b/100b tokens), with the ability to sell up to 1 billion XRP a month. In their most recent report, we can see that Q1/2022 total sales of XRP were totaling $273.27m and in Q4/2021 it totaled $717.07m. As we can see just from these two figures alone that the sales of the cryptocurrency XRP to fund Ripple have far exceeded all of the funding rounds combined.
+
+
+
+
+
+
+
 
 
 ## Business Activities
@@ -20,6 +28,7 @@ The pre-funded foreign accounts are called nostro/vostro accounts, whereby a lot
 
 
 
+
 ## Landscape
 
 
@@ -28,6 +37,7 @@ Ripple operates in the cross-border payments and remittances industry, creating 
 Payments and remittances usually require a webpage or app combined with something to access it via a computer, a phone or a tablet. Due to the COVID-19 pandemic (lockdowns and stay-at-home mandates), remittances have rapidly accelerated whereby nearly 1/3rd have all become digital. According to a study conducted by Visa, “there are now more than 1 billion mobile money wallets,” allowing all these people to have instant access to be able to transfer money across the world. This uptick in digital wallets now allows access to these new types of payment solutions at the push of a finger. 
 
 Major companies involved in the payment industry include SWIFT, and also smaller companies such as MoneyGram and Western Union. 
+
 
 
 ## Results
